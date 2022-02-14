@@ -1,6 +1,7 @@
 # computer-network-notes
  计算机网络学习笔记
 
+**一起学习计算机网关知识**
 ## 注意！
 
 该文章的编写会优先更新到github上：**https://github.com/shenyihao2240483658/computer-network-notes**
